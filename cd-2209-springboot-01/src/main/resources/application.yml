@@ -1,0 +1,12 @@
+user:
+  username: xiaobobo
+  password: 123
+
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    name:root
+    password:12345678
+    url: jdbc:mysql:///cd_2209
