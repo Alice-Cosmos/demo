@@ -19,4 +19,6 @@ public class UserController {
         log.info("password : {}", password);
         return "测试成功";
     }
+
+    //代码提交测试
 }
